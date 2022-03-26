@@ -1,5 +1,7 @@
 /*
-  Used to test the 
+  FetchAndAdd.c
+  Creator : Weixuan Yang
+  Used to test the atomic functions fetch_and_add and fetch_and_sub.
 */
 #include <stdio.h>
 
